@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>The Fracturing of Christendom</title>
+
+    <style>
+        body {
+            max-width: 760px;
+            margin: 80px auto;
+            padding: 0 24px;
+
+            background: #f5f1e8;
+            color: #181818;
+
+            font-family: Georgia, "Times New Roman", serif;
+            line-height: 1.75;
+            font-size: 18px;
+        }
+
+        h1 {
+            font-size: 42px;
+            font-weight: normal;
+            line-height: 1.1;
+            margin-bottom: 10px;
+        }
+
+        h2 {
+            font-size: 20px;
+            font-weight: normal;
+            font-style: italic;
+            margin-top: 0;
+            margin-bottom: 30px;
+        }
+
+        .info {
+            font-size: 14px;
+            margin-bottom: 50px;
+        }
+
+        .note {
+            font-style: italic;
+            color: #555;
+            margin-bottom: 50px;
+        }
+
+        p {
+            margin-bottom: 24px;
+        }
+
+        a {
+            color: inherit;
+        }
+
+        .back {
+            margin-bottom: 60px;
+            font-size: 14px;
+        }
+
+        footer {
+            margin-top: 80px;
+            padding-top: 20px;
+            border-top: 1px solid #999;
+            font-size: 13px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="back">
+        <a href="essays.html">← Essays</a>
+    </div>
+
+    <h1>The Fracturing of Christendom</h1>
+
+    <h2>
+        The Reformation and the Transformation of European Order
+    </h2>
+
+    <div class="info">
+        Michael Aranita · February 2026
+    </div>
+
+    <div class="note">
+        Originally written for HIST 005. Revised for the personal archive, September 2026.
+    </div>
+
+    <p>
+       By the onset of the sixteenth century, European life had undergone significant changes. In the 1440s, Johannes Gutenberg developed the first mechanical printing system that Europe had seen, allowing for the rapid transmission of knowledge (e.g., Hunt et al. 447). Alongside this, the Christian humanism movement began to spread amongst educated clerics; these two developments together fostered increased religious inquiry and theological debate across Europe. It was in this environment that the ideas of  the Protestant Reformation emerged. In 1517, German theologian and priest Martin Luther circulated his ninety-five theses protesting the practices of the Roman Catholic Church. Later, in 1520, he published his three treatises, formally articulating his own interpretation of the Christian religion against the Catholic Church (e.g., Hunt et al. 452). Across these treatises, he condemned the papacy and the authority clerics held over laypeople, instead emphasizing salvation by faith alone, the authority of scripture over the church, and “the priesthood of all believers.” With his articulation of these principles, Luther would set in motion the Reformation movement, which, with its spread, deeply divided Europe across the following decades. This division was not strictly religious but created deep ruptures in the established social order across Europe. One region where this disruption of social order quickly became apparent was in Luther’s homeland of Germany. With Luther’s emphasis on 
+spiritual freedom as well as critique of church authority, the Reformation found a great amount of support amongst German peasants and urban workers, who interpreted Luther's ideas in social terms (e.g., Hunt et al. 455). They saw the Reformation as a vehicle for increased political and social freedoms from the entrenched authorities of both the Church and the Holy Roman Empire.
+
+    </p>
+By 1525, peasants across southern and central Germany, emboldened by Lutheran ideas such as spiritual freedom and opposition to traditional hierarchy, rose up in a rebellion known as the Peasants’ War, attacking nobles’ castles and church lands. By the end of that year, over 100,000 rebels had been killed, and the rebellion was put down (e.g., Hunt et al. 455). Despite the short duration and suppression of the rebellion, the social division and upheaval of this period would continue to have far-reaching influences on German and greater European society. In 1531, Protestants across German states formed the Schmalkaldic League, which was opposed by Holy Roman Emperor Charles V and other Catholic authorities in Germany (e.g., Hunt et al. 467). Despite attempts to reconcile religious differences between these groups, in 1547 war broke out amongst them. After early success, Charles V began to occupy Protestant cities and suppress the Reformation, seeking to reinstate the authority of the Catholic Church (e.g., Hunt et al. 467). Large amounts of Protestant resistance emerged in these cities as a result and pushed the emperor's forces out. With this outcome, Charles V was forced to compromise with the Protestants, agreeing to the Peace of Augsburg in 1555. This agreement recognized the Lutheran Church in the Holy Roman Empire, establishing the principle of coexistence of Lutheran and Catholic lands within the Empire. This peace signaled a profound shift from the united Christendom that defined the medieval world to an increasingly factionalized Europe.
+
+    <p>
+        In response to the spread of the Reformation, Catholicism increasingly centralized and modernized itself. This development can be best exemplified by St. Ignatius of Loyola's new model for Catholic life. In 1540, together with his companions, St. Ignatius founded the Society of Jesus, or the Jesuits, a religious order that emphasized charity, education, and loyalty to papal authority. While speaking at the 1546 Council of Trent, St. Ignatius urged, “In their preaching they should not refer to points of conflict between Protestants and Catholics, but simply exhort all to upright conduct and to ecclesiastical practice, urging everyone to full self-knowledge and to greater knowledge and love of their Creator and Lord…” (Primary Source 14.6). This demonstrates how, in response the widespread accusations of corruption, many Catholic reformers such as Ignatius sought to emphasize disciplined conduct and fair education for members of the church. In a later 1553 letter to Jesuits in Portugal, Ignatius states, “…the same can be seen upon the earth with respect to all secular constitutions that are duly established, and with respect to the ecclesiastical hierarchy, which is subordinated to you in virtue of holy obedience…" (Primary Source 14.6). This passage reflects another sentiment that formed within the Catholic Church in response to the Reformation, the reinforcement of Church hierarchy and authority. In reinforcing discipline and church hierarchy, St. Ignatius stands in direct contrast to Luther’s “priesthood of all believers." This contrast between competing models of Christian religion that emerged out of the Reformation further entrenched the division of Europe along Catholic and Protestant lines.
+
+    </p>
+In many places, out of the continued religious conflict and fragmentation that engulfed Europe during the sixteenth century, compromise emerged. This can be seen directly in the Edict of Nantes, signed and promulgated in 1598 by Henry IV of France. This edict formally ended the armed conflict in France between Catholics and Protestants and created a limited but pragmatic coexistence between these groups. In it Henry IV states, “…we have permitted and do permit to those of the Reformed religion, to live and dwell in all the cities and places of our kingdom… without being inquired after, vexed, molested, or compelled to do anything in religion, contrary to their conscience…" (Primary Source 15.1). This quote shows how a sense of religious tolerance and desire for stability developed out of exhaustion from conflict. Despite this, the religious tolerance of the edict was very limited; within it, Henry IV later declared, "We prohibit most expressly to all those of the said religion, to hold any exercise of it… except in places permitted and granted in the present edict.”(Primary Source 15.1). This conditional tolerance demonstrates that the stability mainly developed out of a sense of political pragmatism rather than a truly free unity between Catholics and Protestants. This contributed to the emergence of a stable but pluralistic and divided state that much of Europe found itself under.
+
+    <p>
+        Across the sixteenth century, Europe underwent a profound transformation. Luther’s challenge of the Catholic Church deeply fractured the unity of Western Christendom, unleashing social upheaval and political instability across the region. This manifested itself within the deadly conflicts between Protestants and Catholics in the Holy Roman Empire or France, with both being resolved only through pragmatic coexistence rather than peaceful unity. Alongside this, changes to Catholic practices also occurred in response to the Reformation, shown by the founding of the Jesuits and St. Ignatius's model of Catholic life. The result of all the events of this century was a Europe deeply divided along religious lines, as the medieval ideal of a unified Christian world was fundamentally undermined by continued conflict. This transformation laid 
+the foundations for the dynastic rivalries, succession crises, and emerging centralized states that would shape the centuries of European politics to follow.
+
+    </p>
+
+    <footer>
+        Michael Aranita — Personal Archive
+    </footer>
+
+</body>
+</html>
