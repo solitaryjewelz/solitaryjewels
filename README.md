@@ -14,11 +14,9 @@
   <main>
     <h1>My Site</h1>
 
-    <p>
-      poetry, essays, fragments, images, and other things.
-    </p>
-  </main>
-
-</body>
-
-</html>
+<nav class="main-index">
+    <a href="quotes.html">Quotes</a>
+    <a href="poetry.html">Poetry</a>
+    <a href="essays.html">Essays</a>
+    <a href="music.html">Music</a>
+</nav>
