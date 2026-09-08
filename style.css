@@ -70,3 +70,18 @@ blockquote cite {
     font-style: italic;
     opacity: 0.65;
 }
+.main-index {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+}
+
+.main-index a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.main-index a:hover {
+    font-style: italic;
+}
