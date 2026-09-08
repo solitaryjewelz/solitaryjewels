@@ -92,6 +92,4 @@ blockquote cite {
     max-width: 100%;
     height: auto;
     margin: 0 auto 40px;
-
-    filter: grayscale(100%);
 }
