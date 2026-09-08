@@ -85,25 +85,6 @@ blockquote cite {
 .main-index a:hover {
     font-style: italic;
 }
-.section-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
-    border-bottom: 1px solid #aaa;
-    padding-bottom: 12px;
-    margin-bottom: 50px;
-}
-
-.section-header h2 {
-    margin: 0;
-    border: none;
-    padding: 0;
-}
-
-.section-image {
-    width: 90px;
-    height: 90px;
 
     object-fit: cover;
 }
