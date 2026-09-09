@@ -93,3 +93,10 @@ blockquote cite {
     height: auto;
     margin: 0 auto 40px;
 }
+body {
+  cursor: url("images/Normal Select.cur") 8 8, auto;
+}
+
+a {
+  cursor: url("images/Link Select2.cur") 8 8, pointer;
+}
